@@ -1,3 +1,8 @@
+/* 
+ * This program allows users to input tasks with associated priorities and sorts them
+ * in descending order based on priority using the heap sort algorithm.
+*/
+
 #include<iostream>
 #include<vector>
 #include<string>
